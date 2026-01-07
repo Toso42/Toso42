@@ -4,9 +4,9 @@
 
 👋 Hi, I’m Tommaso and this is my git.
 
-I am a Junior Full-Stack developer.
+I am a Full-Stack developer.
 
-My discord contact is sk3z#4948
+
 
 <!---
 Toso42/Toso42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
